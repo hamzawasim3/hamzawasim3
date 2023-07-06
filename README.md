@@ -1,3 +1,2 @@
 - 👋 Hi, I’m **Hamza Wasim**. I do Web & Game Development.
 - 👀 I’m interested in solving real-world problems and building robust web applications.
-- 🌱 I’m currently learning **ReactJS** and **Flutter**.
